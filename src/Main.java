@@ -50,6 +50,23 @@ public class Main {
         var differenceWeight=weightBoxer2%weightBoxer1;
         System.out.println("разница в весе способ2;"+differenceWeight+"кг");
 
+        var openingHours=640;
+        System.out.println("всего часов работы" + openingHours + "часов");
+        var dailyRate=8;
+        System.out.println("дневная норма"+dailyRate+"ч.");
+        var amount=(openingHours/dailyRate);
+        System.out.println("Всего работников в компании"+amount+"человек");
+        var additive=94;
+        System.out.println(additive);
+        var total=(amount+additive);
+        System.out.println(total);
+        var norm=openingHours/total;
+        System.out.println("Если в компании работает"+total+"человек, то всего"+openingHours/total+"часа работы может быть поделено между сотрудниками");
+
+
+
+
+
 
 
 

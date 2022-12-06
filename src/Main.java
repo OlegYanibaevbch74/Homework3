@@ -37,6 +37,12 @@ public class Main {
         frog=frog+4;
         System.out.println(frog);
 
+        var weightBoxer1=78.2;
+        System.out.println("вес первого боксера"+weightBoxer1+"кг");
+        var weightBoxer2=82.7;
+        System.out.println("вес второго боксера"+weightBoxer2+"кг");
+
+
 
 
 

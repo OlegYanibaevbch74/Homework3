@@ -45,6 +45,13 @@ public class Main {
         var totalWeightOfFighters=weightBoxer1+weightBoxer2;
         System.out.println("общий вес бойцов"+totalWeightOfFighters+"кг");
 
+        var differenceWeight1=weightBoxer1-weightBoxer2;
+        System.out.println("разница в весе способ1;"+differenceWeight1+"кг");
+        var differenceWeight=weightBoxer2%weightBoxer1;
+        System.out.println("разница в весе способ2;"+differenceWeight+"кг");
+
+
+
 
 
 

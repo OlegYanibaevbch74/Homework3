@@ -42,6 +42,11 @@ public class Main {
         var weightBoxer2=82.7;
         System.out.println("вес второго боксера"+weightBoxer2+"кг");
 
+        var totalWeightOfFighters=weightBoxer1+weightBoxer2;
+        System.out.println("общий вес бойцов"+totalWeightOfFighters+"кг");
+
+
+
 
 
 

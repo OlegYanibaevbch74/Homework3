@@ -14,6 +14,9 @@ public class Main {
         paper=paper+4;
         System.out.println(paper);
 
+        dog=dog-3.5;
+        System.out.println(dog);
+
 
 
 
